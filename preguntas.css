@@ -1,0 +1,53 @@
+body {
+  background-color: black !important ;
+
+}
+
+.jumbotron {
+  background: -moz-radial-gradient(rgb(217, 89, 221), rgb(204, 17, 95), rgb(7, 1, 2)) repeat scroll 0% 0% transparent;
+  background: radial-gradient(rgb(243, 9, 79), rgb(143, 18, 49), rgb(110, 3, 69));
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.contenido {
+  display: block;
+  margin-top: 10px;
+  padding-top: 10px;
+  
+}
+
+.container {
+  padding-top: 30px;
+  margin-top: 30PX;
+  color: #fff;
+ 
+}
+
+.regresar {
+  background-color: rgb(143, 3, 49) !important; 
+}
+
+.siguiente {
+  background-color: rgb(41, 7, 73) !important;
+}
+
+.color {
+  background-color: rgb(197, 60, 18) !important;
+}
+
+.final {
+  background-color: black;
+  color: #fff;
+  
+}
+
+.puntaje {
+  background-color: black;
+  padding-top: 100px;
+  margin-top: 100px;
+}
+
+
+
+
