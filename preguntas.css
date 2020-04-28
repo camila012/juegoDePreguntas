@@ -50,6 +50,23 @@ body {
   margin-top: 100px;
 }
 
+.cuestionario {
+  color: #fff;
+  
+}
 
+.swal2-show{
+  background-color:rgba(0, 0, 0, .8) !important; 
+  color: #fff;
+  
+}
+.swal2-styled{
+  background-color: black !important;
+  color: #fff;
+  border-color: #fff !important;
+}
+.swal2-title{
+color: #fff !important;
+}
 
 
